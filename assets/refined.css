@@ -54,7 +54,7 @@ nav>a[aria-current]{color:#8a6a2f;font-weight:600}
 /* Fill the opening frame and show the top */
 .hero-image > img {
   object-fit: cover;
-  object-position: 50% 25%;
+  object-position: 50% 35%;
   transform: none !important;
 }
 
